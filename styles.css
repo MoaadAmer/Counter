@@ -1,0 +1,28 @@
+body {
+    background-color: #C5D86D;
+}
+
+.container {
+    border: 1px solid black;
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.counter {
+    border: 5px solid black;
+    width: 600px;
+    height: 350px;
+    padding: 25px;
+    text-align: center;
+    background-color: #feffea;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+}
+
